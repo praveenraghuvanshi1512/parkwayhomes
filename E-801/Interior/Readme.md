@@ -61,3 +61,15 @@ http://www.crismatec.com/python/li/wall-painting-design-for-living-room-paint-de
 https://www.youtube.com/watch?v=hNNil014tCg
 
 <img src="assets\kitchen-2.png" alt="Kitchen" style="zoom:80%;" />
+
+<img src="assets\kitchen-3.png" alt="image-20201001014153982" style="zoom:80%;" />
+
+## Bathroom
+
+<img src="assets\bathroom.png" alt="Bathroom" style="zoom:80%;" />
+
+
+
+## Balcony
+
+<img src="assets\balcony.png" alt="Balcony" style="zoom:80%;" />
