@@ -44,4 +44,4 @@ http://www.crismatec.com/python/li/wall-painting-design-for-living-room-paint-de
 
 https://www.youtube.com/watch?v=hNNil014tCg
 
-![Kitchen](assets\kitchen-2.png)
+<img src="assets\kitchen-2.png" alt="Kitchen" style="zoom:80%;" />
