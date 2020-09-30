@@ -16,11 +16,27 @@ http://www.crismatec.com/1529840127/mnc/27fdfb81059bd284/
 
 <img src="assets\main-hall-sample-4.png" alt="Full Wall" style="zoom:80%;" />
 
+
+
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2F51GamzcHcnL._AC_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.com%2FAyzr-Diamonds-Triangles-Acrylic-Decoration%2Fdp%2FB07GH2YQV3&tbnid=MioNNHjX7PeqPM&vet=12ahUKEwiq-OSy05HsAhUvLLcAHUuTAmUQMyhGegQIARBm..i&docid=8qwFTl5XWWDx1M&w=420&h=411&q=mirror%20walls%20in%20living%20room&ved=2ahUKEwiq-OSy05HsAhUvLLcAHUuTAmUQMyhGegQIARBm
+
+
+
+<img src="assets\main-hall-mirror.png" alt="Main hall Mirror" style="zoom:80%;" />
+
+
+
 ## Master Bedroom
 
 http://www.crismatec.com/python/li/wall-painting-design-for-living-room-paint-designs_wall-units-ideas.jpg
 
 <img src="assets\mbroom-sample-1.png" alt="MB Room -1" style="zoom:80%;" />
+
+
+
+<img src="assets\mbroom-sample-2.png" alt="MB Room" style="zoom:80%;" />
+
+
 
 ## Children Room
 
