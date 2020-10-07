@@ -1,5 +1,9 @@
 # Parkway Homes Interior
 
+Contact: Gulab Singh - 
+
+
+
 ## Main Hall
 
 <img src="assets\main-hall-sample-1.png" alt="Hall-Sample-1" style="zoom:80%;" />
@@ -36,7 +40,25 @@ http://www.crismatec.com/python/li/wall-painting-design-for-living-room-paint-de
 
 <img src="assets\mbroom-sample-2.png" alt="MB Room" style="zoom:80%;" />
 
+### Wardrobe
 
+
+
+http://theluxhome.com/sliding-wardrobe-modern-italian-creative-designs-by-cgs-group-designitalia/
+
+<img src="assets\wardrobe-sliding-1.png" alt="image-20201007215728632" style="zoom:80%;" />
+
+
+
+<img src="assets\wardrobe-sliding-2.png" alt="image-20201007221911573" style="zoom:80%;" />
+
+<img src="assets\wardrobe-sliding-3.png" alt="image-20201007222113209" style="zoom:80%;" />
+
+<img src="assets\wardrobe-sliding-4.png" alt="image-20201007222553417" style="zoom:80%;" />
+
+<img src="assets\wardrobe-sliding-5.png" alt="image-20201007222837267" style="zoom:80%;" />
+
+<img src="assets\wardrobe-sliding-6.png" alt="image-20201007225410385" style="zoom:80%;" />
 
 ## Children Room
 
