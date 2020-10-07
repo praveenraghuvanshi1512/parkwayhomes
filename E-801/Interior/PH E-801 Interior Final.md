@@ -17,42 +17,93 @@
 ## Master Bedroom
 
 - Wardrobe 
-  - Major: White
-  - Strips : 2 - Light Grey / Dark Wood
+
+  - Major: White : 2101 HG (Vidyalam)
+
+    <img src="assets\white-2101.png" alt="image-20201007234256501" style="zoom:80%;" />
+
+  - Strips : 2 - Coffee (2108 HG) - Vidyalam
+
+    ​	<img src="assets\cr-coffee.png" alt="image-20201007235137608" style="zoom:80%;" />
+
   - Full length Door
+
 - Slab : 
-  - Covers: Same as strip
-  - Slab: Granite : Black/White
-- Storage racks : Same as strip
+
+  - Covers: Coffee
+  - Slab: Granite : Cream/Beige
+
+- Storage racks : Coffee(2108 HG)
+
 - TV unit
+
 - No side stools
+
 - Mirror near wardrobe
 
 ## Children's Room
 
 - Wardrobe
-  - Major: Dark
-  - Strips: light
+
+  - Major: Coffee(2108 HG)
+
+    <img src="assets\cr-coffee.png" alt="image-20201007235137608" style="zoom:80%;" />
+
+  - Strips: Frosty White(2107 HG)
+
+    ​	<img src="assets\cr-fw.png" alt="image-20201007235238156" style="zoom:80%;" />
+
   - Full Length door
+
 - Mirror?
-- Small Storage boxes / Shelf
+
+- Small Storage boxes / Shelf - White/Dark
 
 ## Kitchen
 
 - Wardrobe
-  - Loft:White
-  - Middle: Printed
-  - Bottom: Light Wood
+
+  - Loft: White : 2101 HG (Vidyalam)
+
+    <img src="assets\white-2101.png" alt="image-20201007234256501" style="zoom:80%;" />
+
+  - Middle: Printed : DG402 SHG
+
+    <img src="assets\kitchen-print.png" alt="image-20201007234400905" style="zoom:80%;" />
+
+  - Bottom: DG 402 Virgo Digital / 1151 HG Vidyalam / 1152 HG Cream Matrix
+
+    <img src="assets\kitchen-bottom-1.png" alt="image-20201007234557226" style="zoom:80%;" />
+
 - Translucent
+
   - Two adjacent to chimney
   - one full cabinet from top to bottom
+
 - Hanging 
+
 - Small open shelf
 
 ## Guest Room
 
 - Wardrobe
-  - Single Color 
+
+  - Single Color : Cherry Walnut - 1146 CW / Tropical walnut: 1113 CW
+
+    <img src="assets\gr-1.png" alt="image-20201007234813758" style="zoom:80%;" />
+
+    
+
+    
+
+    ​	<img src="assets\gr-2.png" alt="image-20201007234932115" style="zoom:80%;" />
+
+    ​	
+
+    ​	<img src="assets\gr-3.png" alt="image-20201007235017404" style="zoom:80%;" />
+
+    
+
   - Full length Door
 
 ## Hall
