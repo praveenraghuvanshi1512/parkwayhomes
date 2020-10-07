@@ -71,9 +71,17 @@
 
     <img src="assets\kitchen-print.png" alt="image-20201007234400905" style="zoom:80%;" />
 
-  - Bottom: DG 402 Virgo Digital / 1151 HG Vidyalam / 1152 HG Cream Matrix
+  - Bottom: 
+
+    - DG 402 Virgo Digital / 1151 HG Vidyalam / 1152 HG Cream Matrix
 
     <img src="assets\kitchen-bottom-1.png" alt="image-20201007234557226" style="zoom:80%;" />
+
+    ​	
+
+    ​			775 UG + Golden walnut Ash - queen glesh  for kitchen bottom drawer
+
+    ​												<img src="assets\kitchen-bottom-2.png" alt="image-20201007235657676" style="zoom:80%;" />
 
 - Translucent
 
