@@ -86,6 +86,8 @@ https://www.youtube.com/watch?v=hNNil014tCg
 
 <img src="assets\kitchen-3.png" alt="image-20201001014153982" style="zoom:80%;" />
 
+<img src="assets\kitchen-4.png" alt="Kitchen" style="zoom:80%;" />
+
 ## Bathroom
 
 <img src="assets\bathroom.png" alt="Bathroom" style="zoom:80%;" />
