@@ -59,6 +59,10 @@
 
 - Small Storage boxes / Shelf - White/Dark
 
+- Single Bed - 195 x 100 cm / 6.4ft x 3.3ft
+
+- White board: 120 x 95 cm / 4ft x 3.2 ft
+
 ## Kitchen
 
 - Wardrobe
