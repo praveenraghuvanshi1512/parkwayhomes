@@ -76,6 +76,12 @@ http://theluxhome.com/sliding-wardrobe-modern-italian-creative-designs-by-cgs-gr
 
 <img src="assets\wardrobe-sliding-6.png" alt="image-20201007225410385" style="zoom:80%;" />
 
+### Bed
+
+https://www.woodenstreet.com/walken-bed-with-storage-walnut-finish
+
+<img src="assets\bed-1.png" alt="image-20201011233330241" style="zoom:80%;" />
+
 ## Children Room
 
 <img src="assets\chidren-room-1.png" alt="Children Room 1" style="zoom:80%;" />
