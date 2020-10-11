@@ -28,7 +28,23 @@ https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages-na.ssl-images-amazon.c
 
 <img src="assets\main-hall-mirror.png" alt="Main hall Mirror" style="zoom:80%;" />
 
+## TV unit
 
+https://www.houzlook.com/TV-Unit/6'x6'-Thetford-wall-mounted-Tv-unit/5ddfbb3b8cc2b34a43fcc0ce
+
+
+
+<img src="assets\tv-unit-1.png" alt="img" style="zoom:80%;" />
+
+<img src="assets\tv-unit-2.png" alt="TV Unit" style="zoom:80%;" />
+
+![image-20201011191219947](assets\tv-unit-6.png)
+
+![image-20201011184154877](D:\Praveen\sourcecontrol\github\praveenraghuvanshi1512\parkwayhomes\E-801\Interior\assets\tv-unit-3.png)
+
+<img src="assets\tv-unit-4.png" alt="image-20201011184650543" style="zoom:80%;" />
+
+![image-20201011185426002](D:\Praveen\sourcecontrol\github\praveenraghuvanshi1512\parkwayhomes\E-801\Interior\assets\tv-unit-5.png)
 
 ## Master Bedroom
 
@@ -101,3 +117,7 @@ https://www.youtube.com/watch?v=hNNil014tCg
 ## Balcony
 
 <img src="assets\balcony.png" alt="Balcony" style="zoom:80%;" />
+
+## Fans
+
+![image-20201011173715749](D:\Praveen\sourcecontrol\github\praveenraghuvanshi1512\parkwayhomes\E-801\Interior\assets\fan-1.png)

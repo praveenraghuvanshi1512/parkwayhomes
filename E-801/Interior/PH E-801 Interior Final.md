@@ -1,18 +1,14 @@
 # PH E-801 Interior Final
 
-## Hall
-
-- [Asian Paints : Dropping Leaves - 9366](https://www.asianpaints.com/catalogue/colour-catalogue/dropping-leaves.html)
-
-  <img src="assets\ap-dropping-leaves.png" alt="Asian Paints" style="zoom:80%;" />
-
-  
-
-  <img src="assets\ap-dropping-leaves-full.png" alt="Asian Paint" style="zoom:80%;" />
-
-- fdsa
 
 
+### Queries
+
+- Kitchen white matching as per printed white?
+- TV unit brown glossy or matt?
+- Pending :
+  - Shoe rack
+  - Pooja unit
 
 ## Master Bedroom
 
@@ -39,11 +35,14 @@
 
 - Storage racks : Coffee(2108 HG)
 
-- TV unit
+- TV unit - Not required now
 
-- No side stools
+- No side stools next to bed
 
 - Mirror near wardrobe
+
+  - Frame
+  - Ledges on the side wall made of transparent glass
 
 ## Children's Room
 
@@ -112,14 +111,26 @@
 
 ## Hall
 
-- TV unit
+### TV unit
 
-  <img src="assets\tv-unit.png" alt="image-20201007225224282" style="zoom:80%;" />
+- Brown : Cherry walnut ?? Glossy or not
+- Ledges : Glass transparent
+- White front storage box: White : 2101 HG (Vidyalam)
 
-- Pooja unit
+<img src="assets\tv-unit-2.png" style="zoom:80%;" />
 
-- Shoe rack 
 
-  - Till end of wall
-  - <img src="assets\shoe-rack.png" alt="image-20201007224919324" style="zoom:80%;" />
+
+<img src="assets\tv-unit-6.png" style="zoom:80%;" />
+
+
+
+<img src="assets\tv-unit.png" alt="image-20201007225224282" style="zoom:80%;" />
+
+### Pooja unit
+
+### Shoe rack 
+
+- Till end of wall
+- <img src="assets\shoe-rack.png" alt="image-20201007224919324" style="zoom:80%;" />
 
