@@ -28,6 +28,10 @@
 
   - Full length Door
 
+    <img src="assets\wardrobe-sliding-1.png" alt="Wardrobe" style="zoom:80%;" />
+
+    
+
 - Slab : 
 
   - Covers: Coffee
@@ -65,7 +69,7 @@
 
 ## Kitchen
 
-- Wardrobe
+- Wardrobe : Dual
 
   - Loft: White : 2101 HG (Vidyalam)
 
@@ -83,9 +87,7 @@
 
     ​	
 
-    ​			775 UG + Golden walnut Ash - queen glesh  for kitchen bottom drawer
-
-    ​												<img src="assets\kitchen-bottom-2.png" alt="image-20201007235657676" style="zoom:80%;" />
+    ​			
 
 - Translucent
 
@@ -98,19 +100,9 @@
 
 ## Guest Room
 
-- Wardrobe
+- Wardrobe - Single Color 
 
-  - Single Color : Cherry Walnut - 1146 CW / Tropical walnut: 1113 CW
-
-    <img src="assets\gr-1.png" alt="image-20201007234813758" style="zoom:80%;" />
-
-    
-
-    
-
-    ​	<img src="assets\gr-2.png" alt="image-20201007234932115" style="zoom:80%;" />
-
-    ​	
+  - Single Color : Dark Matrix - 1146 CW 
 
     ​	<img src="assets\gr-3.png" alt="image-20201007235017404" style="zoom:80%;" />
 
@@ -126,7 +118,8 @@
 
 - Pooja unit
 
-- Shoe rack
+- Shoe rack 
 
+  - Till end of wall
   - <img src="assets\shoe-rack.png" alt="image-20201007224919324" style="zoom:80%;" />
 

@@ -48,7 +48,7 @@ http://theluxhome.com/sliding-wardrobe-modern-italian-creative-designs-by-cgs-gr
 
 <img src="assets\wardrobe-sliding-1.png" alt="image-20201007215728632" style="zoom:80%;" />
 
-
+<img src="assets\wardrobe-sliding-7.png" style="zoom:80%;" />
 
 <img src="assets\wardrobe-sliding-2.png" alt="image-20201007221911573" style="zoom:80%;" />
 
