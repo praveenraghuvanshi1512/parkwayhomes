@@ -1,6 +1,14 @@
 # Parkway Homes Interior
 
-Contact: Gulab Singh - 
+Contact: Gulab Singh - 9880955452
+
+Modification: 
+
+| 1    | MAGIC EYE FOR  ENTRANCE DOOR                             | Yes  |
+| ---- | -------------------------------------------------------- | ---- |
+| 2    | CORE CUTING FOR  CHIMNEY OUTLET                          | Yes  |
+| 3    | PROVISION OF INVERTER  POINT NEAR THE DISTRIBUTION BOARD | Yes  |
+| 4    | INTERNET POINT IN THE LIVING ROOM                        | Yes  |
 
 
 
