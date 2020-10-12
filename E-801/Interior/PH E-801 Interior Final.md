@@ -70,7 +70,13 @@
 
 - Wardrobe : Dual
 
-  - Loft: White : 2101 HG (Vidyalam)
+  - Loft:
+
+    - Frosty White(2107 HG)
+
+       <img src="assets\cr-fw.png" alt="image-20201007235238156" style="zoom:80%;" />
+
+    - White : 2101 HG (Vidyalam)
 
     <img src="assets\white-2101.png" alt="image-20201007234256501" style="zoom:80%;" />
 
@@ -80,12 +86,16 @@
 
   - Bottom: 
 
+    - Few cabinets in color, otherwise white
+
+      <img src="assets\kitchen-4.png" style="zoom:80%;" />
+
     - DG 402 Virgo Digital / 1151 HG Vidyalam / 1152 HG Cream Matrix
 
     <img src="assets\kitchen-bottom-1.png" alt="image-20201007234557226" style="zoom:80%;" />
-
+    
     ​	
-
+    
     ​			
 
 - Translucent
