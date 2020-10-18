@@ -141,6 +141,9 @@
 
 ### Pooja unit
 
+	- Color : Cherry Walnut
+	- 
+
 ### Shoe rack 
 
 - Till end of wall

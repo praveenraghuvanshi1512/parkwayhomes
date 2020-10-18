@@ -88,6 +88,10 @@ http://theluxhome.com/sliding-wardrobe-modern-italian-creative-designs-by-cgs-gr
 
 <img src="assets\wardrobe-sliding-6.png" alt="image-20201007225410385" style="zoom:80%;" />
 
+<img src="assets\wardrobe-sliding-8.png" alt="image-20201013232054083" style="zoom:80%;" />
+
+
+
 ### Bed
 
 https://www.woodenstreet.com/walken-bed-with-storage-walnut-finish
@@ -112,6 +116,16 @@ https://www.woodenstreet.com/walken-bed-with-storage-walnut-finish
 
 ## Kitchen
 
+### Granite
+
+https://www.rkmarblesindia.com/product/155/telephone-black-granite
+
+<img src="assets\granite-1.png" alt="image-20201013233648549" style="zoom:80%;" />
+
+<img src="assets\granite-2.png" alt="image-20201013233724968" style="zoom:80%;" />
+
+
+
 <img src="assets\kitchen-1.png" alt="Kitchen" style="zoom:80%;" />
 
 https://www.youtube.com/watch?v=hNNil014tCg
@@ -124,7 +138,25 @@ https://www.youtube.com/watch?v=hNNil014tCg
 
 
 
-​	<img src="assets\kitchen-5.png" alt="Kitchen with basket" style="zoom:80%;" />
+​	<img src="assets\kitchen-5.png" alt="Kitchen with basket" style="zoom:80%;" />![image-20201018100326167](D:\Praveen\sourcecontrol\github\praveenraghuvanshi\eva4-p2-group\Session-8\Assignment-8\assets\pooja-unit-1.png)
+
+## Pooja Unit
+
+<img src="\assets\pooja-unit-1.png" style="zoom:80%;" />
+
+<img src="\assets\pooja-unit-2.png" alt="image-20201018101907348" style="zoom:80%;" />
+
+<img src="\assets\pooja-unit-3.png" alt="image-20201018102324265" style="zoom:80%;" />
+
+<img src="assets\guest-room-pooja-unit.png" alt="image-20201018104121201" style="zoom:80%;" />
+
+<img src="assets\pooja-unit-1 - modified.png" style="zoom:60%;" />
+
+<img src="\assets\pooja-unit-5.png" alt="image-20201018102527057" style="zoom:80%;" />
+
+<img src="assets\pooja-unit-4.png" alt="image-20201018102722956" style="zoom:80%;" />
+
+<img src="assets\pooja-unit-6.png" alt="image-20201018102832792" style="zoom:80%;" />
 
 ## Bathroom
 
