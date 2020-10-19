@@ -98,6 +98,14 @@ https://www.woodenstreet.com/walken-bed-with-storage-walnut-finish
 
 <img src="assets\bed-1.png" alt="image-20201011233330241" style="zoom:80%;" />
 
+### Wall Mounted Table
+
+<img src="assets\wall-mounted-table-1.png" alt="image-20201018113215353" style="zoom:80%;" />
+
+https://www.desertcart.com.kw/products/204004889-mr-t-wall-mounted-folding-table-folding-table-wall-mounted-computer-desk-kitchen-dining-table-space-saving-waterproof-and-anti-fouling-for-kitchen-bedroom-or-balcony-white-space-saving
+
+https://www.amazon.com/Folding-Wall-Mounted-Drop-Leaf-Computer-Integrated/dp/B08FYLPJ8D/ref=sr_1_49?dchild=1&keywords=wall+mounted+folding+desk&qid=1603007221&sr=8-49&tag=vhunt-20
+
 ## Children Room
 
 <img src="assets\chidren-room-1.png" alt="Children Room 1" style="zoom:80%;" />
