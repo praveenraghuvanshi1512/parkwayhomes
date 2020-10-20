@@ -39,6 +39,7 @@
 - Utility Sink : 24" x 18" x 10"  - 1
 - Faucel/Tap - 2 : Check for connection to water filter
 - Godrej lock - 1
+- Cloth hanging setup for Balcony - 1
 
 ## Miscellaneous
 
