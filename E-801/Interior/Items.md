@@ -72,4 +72,11 @@
 - :x: Chimney 2ft - 1
 - Floor Mats - Main Door + Balcony + Bathrooms(3) + Kitchen + Utility
 - Kitchen Utilities
-- 
+
+
+
+## TO DO
+
+- Transfer Gas Connection
+- Water check
+- Light Check
