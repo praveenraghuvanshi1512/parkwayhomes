@@ -23,7 +23,7 @@
 | 13   | Turmeric - sticks                                            | 14       |       |                                                              |
 | 14   | Kalas mitti ka                                               | 1        |       |                                                              |
 | 15   | Bartan(Lota, plate, chammach, katori(2))                     | 5        |       |                                                              |
-|      |                                                              |          |       |                                                              |
+| 16   | Dhoti (Border - Yellow, Orange) Only                         | 5 m      |       |                                                              |
 |      |                                                              |          |       |                                                              |
 |      |                                                              |          |       |                                                              |
 |      |                                                              |          |       |                                                              |
