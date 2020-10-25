@@ -17,7 +17,7 @@
 - :white_check_mark: ​Kitchen 20 W - 1
 - :white_check_mark: ​Utility slim surface 12W
 - :white_check_mark: ​Balcony 5W - 1
-- :x: Fancy Light - 3
+- :white_check_mark: Fancy Light - 3
 
 ## PoP
 
@@ -27,51 +27,62 @@
 ## Hardware
 
 - :white_check_mark: Bathroom Tower bolt 4" - 3
+
 - :white_check_mark: ​Rooms Door Tower bolt 6" - 3
+
 - :white_check_mark: ​Main Door Tower bolt 8" - 1
+
 - :x: Door guard - 1
+
+  ​	<img src="assets\door-guard.png" alt="Door Guard" style="zoom:80%;" />
+
 - :white_check_mark: ​Tissue Holder - 3
+
 - :white_check_mark: ​Door Stopper - 4(3 + 1)
+
 - :white_check_mark: ​Hand towel holder - 3
+
 - :white_check_mark: ​Door back cloth hanger - 6
+
 - :x: Kitchen Utensil holder - 1
+
 - :white_check_mark: ​Bathroom Towel Stand 24" triple rods - 3
+
 - :white_check_mark: ​Kitchen Sink : 18" x 16" x 10"  - 1
+
 - :white_check_mark: ​Utility Sink : 24" x 18" x 10"  - 1
+
 - :white_check_mark: ​Faucel/Tap - 2 : Check for connection to water filter
+
 - :x: Godrej lock - 1
+
 - :x: Cloth hanging setup for Balcony - 1
+
 - :x: Sink Pipe - 2 ???
 
 ## Curtains
 
 
 
-| S. No. | Area                    | Rod     | Height | Rings | Knobs | Separator |
-| ------ | ----------------------- | ------- | ------ | ----- | ----- | --------- |
-| 1      | Hall Balcony            | 12ft    |        |       | 2     | 2         |
-| 2      | Children Room - Door    | 6ft     |        |       |       |           |
-| 3      | Children Room - Window  | 6ft     |        |       |       |           |
-| 4      | Guest Room - Door       | 6ft     |        |       |       |           |
-| 5      | Guest Room - Window     | 6ft     |        |       |       |           |
-| 6      | Master Bedroom - Door   | 6ft     |        |       |       |           |
-| 7      | Master Bedroom - Window | 12ft ?? |        |       |       | 2         |
-
-
-
-- Hall Balcony
-  - Rod: 
-- Children Room
-- Guest Room
-- Master Bedroom
+| S. No. | Area                    | Rod     | Height | Rings | Knobs | Support angle |
+| ------ | ----------------------- | ------- | ------ | ----- | ----- | ------------- |
+| 1      | Hall Balcony            | 12ft    |        |       | 2     | 3             |
+| 2      | Children Room - Door    | 6ft     |        |       | 1     | 1             |
+| 3      | Children Room - Window  | 6ft     |        |       | 2     | 2             |
+| 4      | Guest Room - Door       | 6ft     |        |       | 2     | 2             |
+| 5      | Guest Room - Window     | 6ft     |        |       | 2     | 2             |
+| 6      | Master Bedroom - Door   | 6ft     |        |       | 1     | 1 + Elbow     |
+| 7      | Master Bedroom - Window | 12ft ?? |        |       | 2     | 2             |
 
 
 
 ## Miscellaneous
 
-- :x: Chimney 2ft - 1
+- :white_check_mark: Chimney 2ft - 1
+- :x: Water Filter
 - Floor Mats - Main Door + Balcony + Bathrooms(3) + Kitchen + Utility
 - Kitchen Utilities
+- Furniture repair
 
 
 
