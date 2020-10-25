@@ -1,5 +1,7 @@
 # PWH E-801 Pooja - 29-Oct-2020
 
+<img src="assets\pooja-1.png" style="zoom:80%;" />
+
 ## Items to be bought early 
 
 
@@ -20,7 +22,7 @@
 | 12   | Yellow cloth - 30/m                                          | 1.25 m   |       |                                                              |
 | 13   | Turmeric - sticks                                            | 14       |       |                                                              |
 | 14   | Kalas mitti ka                                               | 1        |       |                                                              |
-|      |                                                              |          |       |                                                              |
+| 15   | Bartan(Lota, plate, chammach, katori(2))                     | 5        |       |                                                              |
 |      |                                                              |          |       |                                                              |
 |      |                                                              |          |       |                                                              |
 |      |                                                              |          |       |                                                              |
