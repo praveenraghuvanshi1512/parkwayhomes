@@ -50,14 +50,14 @@ Loban
 
 - Bucket - 1
 - Water Bottle - 10 liter
-- Small Gas Cylinder
+- :white_check_mark: Small Gas Cylinder
 - Utensils - Plate, Spoon, Bowl, Glass
 - Matchbox
 - Eeth (Brick) - 2
 - Balu Sand - 1
 - Tulsaji gamla and kele ka gamla - 
-- havan kund -1
-- chaddar - 5
+- :white_check_mark: havan kund -1
+- :white_check_mark: chaddar - 5
 - Pillow - 3
 - Milk packet- 1 
 - Scissor
@@ -71,10 +71,10 @@ Loban
 
 ## 27-10
 
-- Folding - 2
-- Mattress - 1
-- Stool - 2
-- Folding chair - 2
+- :x: Folding - 2
+- :white_check_mark: Mattress - 1
+- :white_check_mark: Stool - 1
+-  :white_check_mark: Folding chair - 2
 - Jhadoo pocha - 1
 
 ## 28-10
