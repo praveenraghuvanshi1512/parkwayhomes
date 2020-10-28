@@ -101,6 +101,7 @@ Loban
 
 ## Items for stay
 
+- House KEYS
 - Two pair of clothes(Pratyansh, Aradhana and Praveen)
 - Toothbrush, Toothpaste
 - Face wash
