@@ -18,6 +18,12 @@
 - :white_check_mark: ​Utility slim surface 12W
 - :white_check_mark: ​Balcony 5W - 1
 - :white_check_mark: Fancy Light - 3
+- :x: Tester - 1
+- :x: Bulb holder(wall) - 2
+- :x: Normal Holder - 1
+- :x: Cello tape - 1/2 inch
+- :x: Ladi
+- :x: kandeel
 
 ## PoP
 
