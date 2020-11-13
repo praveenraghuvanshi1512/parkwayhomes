@@ -179,3 +179,15 @@ https://www.youtube.com/watch?v=hNNil014tCg
 ## Fans
 
 ![image-20201011173715749](D:\Praveen\sourcecontrol\github\praveenraghuvanshi1512\parkwayhomes\E-801\Interior\assets\fan-1.png)
+
+
+
+## Painting
+
+| S.No | Painter    | Hall + MBroom | Full  | Reference | Contact    | Remarks |
+| ---- | ---------- | ------------- | ----- | --------- | ---------- | ------- |
+| 1    | Shivu Raju | 16000         | 21000 | PWH       | 8971304010 |         |
+| 2    | Nagesh     |               |       | Bidyut    | 9546039014 |         |
+| 3    | Jabber     |               |       | PWH group | 9901954955 |         |
+|      |            |               |       |           |            |         |
+
