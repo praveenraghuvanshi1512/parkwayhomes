@@ -18,11 +18,11 @@
 - :white_check_mark: ​Utility slim surface 12W
 - :white_check_mark: ​Balcony 5W - 1
 - :white_check_mark: Fancy Light - 3
-- :x: Tester - 1
-- :x: Bulb holder(wall) - 2
-- :x: Normal Holder - 1
-- :x: Cello tape - 1/2 inch
-- :x: Ladi
+- :white_check_mark: Tester - 1
+- :white_check_mark: Bulb holder(wall) - 2
+- :white_check_mark: Normal Holder - 1
+- :white_check_mark: Ladi
+- :white_check_mark: Cello tape - 1/2 inch
 - :x: kandeel
 
 ## PoP
@@ -36,7 +36,6 @@
 - :white_check_mark: ​Rooms Door Tower bolt 6" - 3
 - :white_check_mark: ​Main Door Tower bolt 8" - 1
 - :white_check_mark: Door guard - 1
-
 - :white_check_mark: ​Door Stopper - 4(3 + 1)
 - :white_check_mark: ​Hand towel holder - 3
 - :white_check_mark: ​Door back cloth hanger - 6
@@ -44,13 +43,13 @@
 - :white_check_mark: ​Kitchen Sink : 18" x 16" x 10"  - 1
 - :white_check_mark: ​Utility Sink : 24" x 18" x 10"  - 1
 - :white_check_mark: ​Faucel/Tap - 2 : Check for connection to water filter
+- :white_check_mark: Bathroom Tower Bolt 8" - 1
+- :white_check_mark: Bathroom Handle grab rod - 1
 - :x: Godrej lock - 1
 - :x: Cloth hanging setup for Balcony - 1
 - :x: Sink Pipe - 2 ???
 - :x:Tissue Holder - 3
-- :x: Bathroom Handle grab rod - 2
 - :x: Kitchen Utensil holder - 1
-- :x: Bathroom Tower Bolt 8" - 1
 
 ## Curtains
 
