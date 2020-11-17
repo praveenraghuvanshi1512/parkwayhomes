@@ -180,14 +180,24 @@ https://www.youtube.com/watch?v=hNNil014tCg
 
 ![image-20201011173715749](D:\Praveen\sourcecontrol\github\praveenraghuvanshi1512\parkwayhomes\E-801\Interior\assets\fan-1.png)
 
+## Window
 
+<img src="assets\window-design.png" style="zoom:80%;" />
 
 ## Painting
 
-| S.No | Painter    | Hall + MBroom | Full  | Reference | Contact    | Remarks |
-| ---- | ---------- | ------------- | ----- | --------- | ---------- | ------- |
-| 1    | Shivu Raju | 16000         | 21000 | PWH       | 8971304010 |         |
-| 2    | Nagesh     |               |       | Bidyut    | 9546039014 |         |
-| 3    | Jabber     |               |       | PWH group | 9901954955 |         |
-|      |            |               |       |           |            |         |
+| S.No | Painter                                                      | Tractor | Royal | Hall + MBroom | Full  | Reference    | Contact     | Remarks                                |
+| ---- | ------------------------------------------------------------ | ------- | ----- | ------------- | ----- | ------------ | ----------- | -------------------------------------- |
+| 1    | Shivu Raju                                                   |         |       | 16000         | 21000 | PWH          | 8971304010  | Good one                               |
+| 2    | Nagesh                                                       |         |       | 14000         | 20000 | Bidyut       | 9546039014  | Quite young                            |
+| 3    | Jabber                                                       |         |       | 13500         | 20000 | PWH group    | 9901954955  | Average                                |
+| 4    | Naveen                                                       | 12      | 17    | 16000         | 25000 | Sonal Bhabhi | 9901023450  | Better                                 |
+| 5    | [Vijay Services](https://www.vijayhomeservices.com/services/interior-painting-in-bangalore) | 8       | 14    | 16320         | 28560 | Online       | 96116 00990 | Cost effective, Includes Deep cleaning |
 
+Vijay
+
+<img src="assets\paint-vijay-process.png" alt="Vijay Services - Paint process" style="zoom:80%;" />
+
+Jabber
+
+<img src="assets\paint-jabber-quotation.png" alt="Paint - Jabber" style="zoom:80%;" />

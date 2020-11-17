@@ -77,8 +77,35 @@
 
 
 
-## TO DO
+## Pending work
 
-- Transfer Gas Connection
-- Water check
+- Bathroom
+  - Soap dispenser 
+  - Tissue holder
+  - Toothpaste holder
+- Plumber
+  - Cover for drain pipe in bathrooms
+  - Leakage in Wash basins
+  - Sink tab fitting
+- Water Filter 
+  - Check with Drink Prime
 - Light Check
+- Transfer Gas Connection
+- Broadband
+  - Airtel
+- Main Door
+  - Eye piece main door
+  - Handle
+  - Lock(godrej)
+- Electrical
+  - Geyser
+  - Smart light
+  - Fans
+  - Cieling lights
+- Kitchen
+  - Chimney
+- NOC and Possession Letter
+- Curtain rods/fittings
+- Cloth hanger
+- Deep cleaning
+- 
