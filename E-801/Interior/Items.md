@@ -79,6 +79,18 @@
 
 ## Pending work
 
+18-11-2020:
+
+- Cloth hanger
+- Painting follow up with Vijayhomes, Asian and berger paints
+- Door handles finalization
+- Sink and tab fitting
+- Window design finalization
+
+
+
+### To Do
+
 - Bathroom
   - Soap dispenser 
   - Tissue holder
@@ -86,13 +98,14 @@
 - Plumber
   - Cover for drain pipe in bathrooms
   - Leakage in Wash basins
-  - Sink tab fitting
+  - Sink and tab fitting
 - Water Filter 
   - Check with Drink Prime
 - Light Check
 - Transfer Gas Connection
 - Broadband
   - Airtel
+  - Check for Main hall internet port
 - Main Door
   - Eye piece main door
   - Handle
@@ -108,4 +121,3 @@
 - Curtain rods/fittings
 - Cloth hanger
 - Deep cleaning
-- 
