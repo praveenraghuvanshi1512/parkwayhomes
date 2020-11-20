@@ -83,9 +83,18 @@
 
 - Cloth hanger
 - Painting follow up with Vijayhomes, Asian and berger paints
-- Door handles finalization
+- :white_check_mark: Door handles finalization
 - Sink and tab fitting
 - Window design finalization
+
+19-11-2020
+
+- Cloth hanger
+- Painting follow up with Vijayhomes, Asian and berger paints
+- Sink and tab fitting
+- Window design finalization
+
+
 
 
 

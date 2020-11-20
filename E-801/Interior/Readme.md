@@ -182,6 +182,10 @@ https://www.youtube.com/watch?v=hNNil014tCg
 
 ## Window
 
+![image-20201118170726946](assets\window-design-2.png)
+
+![image-20201118170621413](D:\Praveen\sourcecontrol\github\praveenraghuvanshi1512\parkwayhomes\E-801\Interior\assets\window-design-1.png)
+
 <img src="assets\window-design.png" style="zoom:80%;" />
 
 ## Painting
@@ -193,6 +197,7 @@ https://www.youtube.com/watch?v=hNNil014tCg
 | 3    | Jabber                                                       |         |       | 13500         | 20000 | PWH group    | 9901954955  | Average                                |
 | 4    | Naveen                                                       | 12      | 17    | 16000         | 25000 | Sonal Bhabhi | 9901023450  | Better                                 |
 | 5    | [Vijay Services](https://www.vijayhomeservices.com/services/interior-painting-in-bangalore) | 8       | 14    | 16320         | 28560 | Online       | 96116 00990 | Cost effective, Includes Deep cleaning |
+| 6    | Susheel                                                      |         |       | 20000         | 25000 | Gulab Singh  | 9663427128  | Gulab singh person, expensive          |
 
 Vijay
 
