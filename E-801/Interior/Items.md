@@ -23,7 +23,7 @@
 - :white_check_mark: Normal Holder - 1
 - :white_check_mark: Ladi
 - :white_check_mark: Cello tape - 1/2 inch
-- :x: kandeel
+- :white_check_mark: kandeel
 
 ## PoP
 
@@ -79,29 +79,18 @@
 
 ## Pending work
 
-18-11-2020:
+23-11-2020:
 
-- Cloth hanger
+- :white_check_mark: Cloth hanger
 - Painting follow up with Vijayhomes, Asian and berger paints
 - :white_check_mark: Door handles finalization
 - Sink and tab fitting
-- Window design finalization
-
-19-11-2020
-
-- Cloth hanger
-- Painting follow up with Vijayhomes, Asian and berger paints
-- Sink and tab fitting
-- Window design finalization
-
-
-
-
+- :white_check_mark: Window design finalization
 
 ### To Do
 
 - Bathroom
-  - Soap dispenser 
+  - :white_check_mark: Soap dispenser 
   - Tissue holder
   - Toothpaste holder
 - Plumber

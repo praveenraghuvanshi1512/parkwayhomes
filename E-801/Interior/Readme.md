@@ -190,14 +190,14 @@ https://www.youtube.com/watch?v=hNNil014tCg
 
 ## Painting
 
-| S.No | Painter                                                      | Tractor | Royal | Hall + MBroom | Full  | Reference    | Contact     | Remarks                                |
-| ---- | ------------------------------------------------------------ | ------- | ----- | ------------- | ----- | ------------ | ----------- | -------------------------------------- |
-| 1    | Shivu Raju                                                   |         |       | 16000         | 21000 | PWH          | 8971304010  | Good one                               |
-| 2    | Nagesh                                                       |         |       | 14000         | 20000 | Bidyut       | 9546039014  | Quite young                            |
-| 3    | Jabber                                                       |         |       | 13500         | 20000 | PWH group    | 9901954955  | Average                                |
-| 4    | Naveen                                                       | 12      | 17    | 16000         | 25000 | Sonal Bhabhi | 9901023450  | Better                                 |
-| 5    | [Vijay Services](https://www.vijayhomeservices.com/services/interior-painting-in-bangalore) | 8       | 14    | 16320         | 28560 | Online       | 96116 00990 | Cost effective, Includes Deep cleaning |
-| 6    | Susheel                                                      |         |       | 20000         | 25000 | Gulab Singh  | 9663427128  | Gulab singh person, expensive          |
+| S.No | Painter                                                      | Tractor | Royal | Hall + MBroom | Full  | Doors | Total | Reference    | Contact     | Remarks                                |
+| ---- | ------------------------------------------------------------ | ------- | ----- | ------------- | ----- | ----- | ----- | ------------ | ----------- | -------------------------------------- |
+| 1    | Shivu Raju                                                   |         |       | 16000         | 21000 |       | 21000 | PWH          | 8971304010  | Good one                               |
+| 2    | Nagesh                                                       |         |       | 14000         | 20000 |       | 20000 | Bidyut       | 9546039014  | Quite young                            |
+| 3    | Jabber                                                       |         |       | 13500         | 20000 | 3500  | 23500 | PWH group    | 9901954955  | Average                                |
+| 4    | Naveen                                                       | 12      | 17    | 16000         | 25000 |       | 25000 | Sonal Bhabhi | 9901023450  | Better                                 |
+| 5    | [Vijay Services](https://www.vijayhomeservices.com/services/interior-painting-in-bangalore) | 8       | 14    | N/A           | 22200 | 2800  | 24000 | Online       | 96116 00990 | Cost effective, Includes Deep cleaning |
+| 6    | Susheel                                                      |         |       | 20000         | 25000 | 7500  | 32500 | Gulab Singh  | 9663427128  | Gulab singh person, expensive          |
 
 Vijay
 
