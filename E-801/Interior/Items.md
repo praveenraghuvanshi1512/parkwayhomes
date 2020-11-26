@@ -107,6 +107,10 @@
 
 - Extended rods in balcony
 
+- Electrical fitting
+
+- Geyser, Bathrrom lights, Room Lights
+
 23-11-2020:
 
 - :white_check_mark: Cloth hanger
