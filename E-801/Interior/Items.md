@@ -89,7 +89,8 @@
 - Small box at the entrance gate
 - Wooden pieces: 15 
 - Curtain Rods: 3 x 12ft
-- 
+- Paining/Color selection
+- Grill
 
 23-11-2020:
 
