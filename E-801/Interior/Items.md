@@ -79,6 +79,18 @@
 
 ## Pending work
 
+26-11-2020:
+
+- Sink and tab fitting
+- Filling gap in mbroom window and granite
+- Point in MB room for lights in Mirror
+- Point outside house
+- Point in kitchen for chimney
+- Small box at the entrance gate
+- Wooden pieces: 15 
+- Curtain Rods: 3 x 12ft
+- 
+
 23-11-2020:
 
 - :white_check_mark: Cloth hanger
@@ -86,6 +98,12 @@
 - :white_check_mark: Door handles finalization
 - Sink and tab fitting
 - :white_check_mark: Window design finalization
+- Filling gap in mbroom window and granite
+- Finalize painting
+- Socket for Chimney at the top
+- Point near MB room 
+- Fixtures
+- 
 
 ### To Do
 
