@@ -79,18 +79,33 @@
 
 ## Pending work
 
-26-11-2020:
+27-11-2020:
 
 - Sink and tab fitting
+
 - Filling gap in mbroom window and granite
+
 - Point in MB room for lights in Mirror
+
 - Point outside house
+
 - Point in kitchen for chimney
+
 - Small box at the entrance gate
+
 - Wooden pieces: 15 
-- Curtain Rods: 3 x 12ft
+
+- Curtain Rods:
+
+  <img src="assets\curtain-rod-dimension.png" style="zoom:80%;" />
+
+- 
+
 - Paining/Color selection
+
 - Grill
+
+- Extended rods in balcony
 
 23-11-2020:
 
