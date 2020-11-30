@@ -45,11 +45,11 @@
 - :white_check_mark: ​Faucel/Tap - 2 : Check for connection to water filter
 - :white_check_mark: Bathroom Tower Bolt 8" - 1
 - :white_check_mark: Bathroom Handle grab rod - 1
-- :x: Godrej lock - 1
-- :x: Cloth hanging setup for Balcony - 1
-- :x: Sink Pipe - 2 ???
-- :x:Tissue Holder - 3
+- :white_check_mark: Cloth hanging setup for Balcony - 1
+- :white_check_mark: Sink Pipe - 2 ???
+- :white_check_mark: Tissue Holder - 3
 - :x: Kitchen Utensil holder - 1
+- :x: Godrej lock - 1
 
 ## Curtains
 
@@ -78,6 +78,45 @@
 
 
 ## Pending work
+
+01-Dec-2020:
+
+- Window Frame - Rizvan
+- Sink cement : Ega
+- NOC and Possession letter : Geetanjali
+- Gas connection
+- Paining/Color selection
+- Filling gap in mbroom window and granite
+- Sink fitting - Black powder
+- Point outside house
+- Point in kitchen for chimney
+- Small box at the entrance gate
+- Grill
+- Extended rods in balcony
+- Electrical fitting
+- Geyser, Bathrrom lights, Room Lights
+- White board
+- TV frame
+- Deep Cleaning
+
+28-11-2020:
+
+- Sink fitting - Black powder
+- Filling gap in mbroom window and granite
+- :white_check_mark: Point in MB room for lights in Mirror
+- Point outside house
+- Point in kitchen for chimney
+- Small box at the entrance gate
+- Paining/Color selection
+- Grill
+- Extended rods in balcony
+- Electrical fitting
+- Geyser, Bathrrom lights, Room Lights
+- :white_check_mark: Buy geyser pipe : 4 - 2ft each
+- :white_check_mark: Side bracket
+- White board
+- TV frame
+- Cleaning
 
 27-11-2020:
 
