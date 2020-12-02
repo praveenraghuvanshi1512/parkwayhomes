@@ -79,6 +79,30 @@
 
 ## Pending work
 
+02-12-2020:
+
+- Window Frame - Rizvan
+- Sink cement : Ega
+- NOC and Possession letter : Geetanjali
+- Gas connection
+- Paining/Color selection
+- Sink fitting - Black powder
+- Electrical
+  - Point outside house
+  - Point in kitchen for chimney
+  - Electrical fitting
+  - Geyser, Bathrrom lights, Room Lights
+- TV frame
+- Deep Cleaning
+- Niwaad
+- Water : Drink Prime
+- Carpenter:
+  - Filling gap in mbroom window and granite
+  - Small box at the entrance gate
+  - Grill
+  - Extended rods in balcony
+  - White board
+
 01-Dec-2020:
 
 - Window Frame - Rizvan
@@ -98,6 +122,7 @@
 - White board
 - TV frame
 - Deep Cleaning
+- Niwaad
 
 28-11-2020:
 
