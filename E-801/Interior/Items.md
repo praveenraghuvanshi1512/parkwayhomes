@@ -79,13 +79,37 @@
 
 ## Pending work
 
-02-12-2020:
+07-12-2020:
 
-- Window Frame - Rizvan
 - Sink cement : Ega
 - NOC and Possession letter : Geetanjali
 - Gas connection
-- Paining/Color selection
+  - Submit documents
+- Sink fitting - Black powder
+- Electrical
+  - Carry Rope light 30m
+  - Point outside house
+  - Point in kitchen for chimney
+  - Electrical fitting
+  - Geyser, Bathrrom lights, Room Lights
+  - Door bell
+
+- TV frame
+- Deep Cleaning
+- Niwaad
+- Water : Drink Prime
+- Carpenter:
+  - Small box at the entrance gate
+  - Grill
+  - Extended rods in balcony
+
+02-12-2020:
+
+- :white_check_mark: Window Frame - Rizvan
+- Sink cement : Ega
+- NOC and Possession letter : Geetanjali
+- Gas connection
+- :white_check_mark: Paining/Color selection
 - Sink fitting - Black powder
 - Electrical
   - Point outside house
