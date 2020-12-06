@@ -86,6 +86,7 @@
 - Gas connection
   - Submit documents
 - Sink fitting - Black powder
+- Plumbing; Water leakage in common bathroom
 - Electrical
   - Carry Rope light 30m
   - Point outside house
