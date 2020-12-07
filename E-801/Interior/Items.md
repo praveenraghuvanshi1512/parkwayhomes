@@ -79,6 +79,33 @@
 
 ## Pending work
 
+08-12-2020:
+
+- Sink cement : Ega
+- NOC and Possession letter : Geetanjali
+- Gas connection
+  - Submit documents
+- Sink fitting - Black powder
+- Plumbing: Water leakage in common bathroom
+  - Carry ACID
+  - Call Sonu
+- Electrical
+  - Point outside house
+  - Point in kitchen for chimney
+  - Electrical fitting
+  - Geyser, Bathrrom lights, Room Lights
+  - Door bell
+- TV frame
+- Deep Cleaning
+- Niwaad
+- Water : Drink Prime
+  - Call on thursday
+- Carpenter:
+  - Small box at the entrance gate
+  - Grill
+    - Master B Room pending
+  - Extended rods in balcony : Call Samsuddin
+
 07-12-2020:
 
 - Sink cement : Ega
@@ -88,13 +115,15 @@
 - Sink fitting - Black powder
 - Plumbing; Water leakage in common bathroom
 - Electrical
-  - Carry Rope light 30m
+  - :white_check_mark: Carry Rope light 30m
   - Point outside house
   - Point in kitchen for chimney
   - Electrical fitting
-  - Geyser, Bathrrom lights, Room Lights
-  - Door bell
-
+  - :white_check_mark: Geyser
+  - :white_check_mark: Bathrrom lights, 
+- Room Lights
+  - :white_check_mark: Door bell
+  
 - TV frame
 - Deep Cleaning
 - Niwaad
